@@ -1,4 +1,56 @@
-main p{
-    background-color:#13294B
+header {
+    background-color: #13294B;
+    color:white;
+    
 }
 
+
+main {
+    background-color:#13294B;
+    color:white
+}
+
+
+
+p {
+    text-align:left;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding: 3rem
+}
+
+
+
+
+h1  {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+    text-align: left;
+    margin: 1rem;
+}
+
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    text-align: left;
+    margin: 1rem
+}
+
+h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    text-align: left;
+    margin: 1rem;
+
+}
+
+li{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+    text-align:left;
+    margin:5rem .5rem;
+}
+
+img{
+    padding:2rem ;
+}
