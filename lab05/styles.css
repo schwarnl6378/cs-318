@@ -26,7 +26,8 @@ header>nav>a {
     text-decoration:none;
     padding:1rem;
     border: 1px solid transparent;
-    /*Missing display:inline-block;*/
+    display:inline-block;
+    /*added display:inline-block;*/
 
 }
 
